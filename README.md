@@ -2,10 +2,8 @@
 
 I am Jeet, a Frontend Dev, a Computer Science student and hungry for pasta 🍝!
 
-- 🔭 In my personal life, I'm currently working on [my blog WebDevJeet.](https://webdevjeet.me)
 - 🌱 I'm currently learning ReactJS, Flutter and TypeScript.
 - 💬 Ask me about anything [here](https://github.com/sereneinserenade/sereneinserenade/issues).
-- 📫 How to reach me: gonna implement soon @ [my blog.](https://webdevjeet.me)
 - ❤️ I love VueJS, SCSS, Linux/Unix.
 
 <br />

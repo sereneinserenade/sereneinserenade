@@ -12,6 +12,10 @@
     <img alt="Twitter " src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white">
   </a>
 
+  <br />
+  <br />
+  
+
 - ⌨️ Currently working on [PlaceNoter - Chrome Extension](https://github.com/sereneinserenade/placenoter), that replaces chrome's new tab with note-taking app.
 - 🌱 I'm currently learning React(with TypeScript), Flutter and TypeScript.
 - ❤️ I love VueJS, SCSS, Linux/Unix.

@@ -1,6 +1,4 @@
 # <p align="center"> Hello, Fellow < Devs/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /> </p>
-
-### I am Jeet, a Frontend Dev, a Computer Science student and hungry for pasta 🍝!
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&height=60&lines=Welcome+to+my+GitHub+Profile!;I+am+Jeet!+A+Frontend+Developer%2C+;a+Computer+Science+student;and+always+in+for+pasta+%F0%9F%8D%9D.)](https://git.io/typing-svg)
  

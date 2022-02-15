@@ -8,14 +8,34 @@ I am Jeet, a Frontend Dev, a Computer Science student and hungry for pasta 🍝!
 
 <br />
 
-<a href="https://github.com/sereneinserenade/sereneinserenade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sereneinserenade&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jeet's GitHub Stats" />
-</a>
-<br />
-<br />
-<a href="https://github.com/sereneinserenade/sereneinserenade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<table align="center">
+  <thead>
+  <tr>
+  <th>
+    <a href="https://github.com/sereneinserenade">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=sereneinserenade&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Jeet's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
+    </a>
+  </th>
+  <th>
+    <a href="https://github.com/sereneinserenade">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
+    </a>
+  </th>
+</tr>
+</thead>
+</table>
+
+## Top Repos
+
+<p align="center" dir="auto">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" style="max-width: 100%;" />
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-languagetool&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-languagetool&amp;theme=buefy" style="max-width: 100%;" />
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" style="max-width: 100%;" />
+
+</p>
 
 <!--
 **sereneinserenade/sereneinserenade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

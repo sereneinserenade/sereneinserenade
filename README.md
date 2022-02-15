@@ -28,12 +28,19 @@ I am Jeet, a Frontend Dev, a Computer Science student and hungry for pasta 🍝!
 ## Top Repos
 
 <p align="center" dir="auto">
+  
+<a href="https://github.com/sereneinserenade/tiptap-comment-extension">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" style="max-width: 100%;" />
+</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" style="max-width: 100%;" />
-  
+<a href="https://github.com/sereneinserenade/tiptap-languagetool">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-languagetool&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-languagetool&amp;theme=buefy" style="max-width: 100%;" />
-  
+</a>
+
+  <a href="https://github.com/sereneinserenade/placenoter">
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" style="max-width: 100%;" />
+  </a>
 
 </p>
 

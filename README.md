@@ -40,6 +40,11 @@
 </thead>
 </table>
 
+## Github Streaks
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sereneinserenade" alt="sereneinserenade" /></p>
+
+
 ## Badges
 
 <a href="" title="Badge for Hacktoberfest 2021">

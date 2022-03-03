@@ -42,7 +42,11 @@
 
 ## Github Streaks
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sereneinserenade" alt="sereneinserenade" /></p>
+<p align="center">
+  <a href="https://github.com/sereneinserenade">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sereneinserenade" alt="sereneinserenade" />    
+  </a>
+</p>
 
 
 ## Badges

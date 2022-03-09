@@ -1,6 +1,6 @@
-# <p align="center"> Hello, Fellow < Devs/ >! <img src="https://raw.githubusercontent.com/sereneinserenade/sereneinserenade/master/wave.gif" width="40px" /> </p>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&height=60&lines=Welcome+to+my+GitHub+Profile!;I+am+Jeet!+A+Frontend+Developer%2C+;a+Computer+Science+student;and+always+down+for+pasta+%F0%9F%8D%9D.)](https://git.io/typing-svg)
+<!-- # <p align="center"> Hello, Fellow < Devs/ >! <img src="https://raw.githubusercontent.com/sereneinserenade/sereneinserenade/master/wave.gif" width="40px" /> </p> -->
+
+![github-header-image](https://user-images.githubusercontent.com/45892659/157429598-23d690e2-6600-4900-ace4-1d8e6291e456.png)
  
    <a href="https://www.linkedin.com/in/sereneinserenade/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">

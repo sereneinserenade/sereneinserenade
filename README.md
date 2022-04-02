@@ -23,31 +23,21 @@
 
 <br />
 
-<table align="center">
-  <thead>
-  <tr>
-  <th>
-    <a href="https://github.com/sereneinserenade">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=sereneinserenade&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Jeet's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
-    </a>
-  </th>
-  <th>
-    <a href="https://github.com/sereneinserenade">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
-    </a>
-  </th>
-</tr>
-</thead>
-</table>
-
-## Github Streaks
-
-<p align="center">
+<p dir="auto">
   <a href="https://github.com/sereneinserenade">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sereneinserenade" alt="sereneinserenade" />    
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sereneinserenade&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Jeet's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
+  </a>
+ 
+  <a href="https://github.com/sereneinserenade">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true">
   </a>
 </p>
 
+## Github Streaks
+
+<a href="https://github.com/sereneinserenade">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sereneinserenade" alt="sereneinserenade" />    
+</a>
 
 ## Badges
 

@@ -16,7 +16,7 @@
   <br />
   
 
-- ⌨️ Currently working on [PlaceNoter - Chrome Extension](https://github.com/sereneinserenade/placenoter), that replaces chrome's new tab with note-taking app.
+- ⌨️ Currently working on [Lexical-Comments](https://github.com/sereneinserenade/lexical-comments), Google-Docs like commenting experience in Lexical.
 - 🌱 I'm currently learning React(with TypeScript), Flutter and TypeScript.
 - ❤️ I love VueJS, SCSS, Linux/Unix.
 - ⚡️ Fun Fact: I love working with WYSIWYG/WYSIWYM editors and my favourite one is [TipTap.](https://github.com/ueberdosis/tiptap)

@@ -18,33 +18,46 @@
 
 - ⌨️ Currently working on [Lexical-Comments](https://github.com/sereneinserenade/lexical-comments), Google-Docs like commenting experience in Lexical.
 - 🌱 I'm currently learning React(with TypeScript), Flutter and TypeScript.
-- ❤️ I love VueJS, SCSS, Linux/Unix.
-- ⚡️ Fun Fact: I love working with WYSIWYG/WYSIWYM editors and my favourite one is [TipTap.](https://github.com/ueberdosis/tiptap)
+- ❤️ I love VueJS, SCSS, \*nix systems.
+- ⚡️ Fun Fact: I love working with WYSIWYG/WYSIWYM editors and my favourite one is [TipTap](https://github.com/ueberdosis/tiptap), [Lexical](https://lexical.dev/) is giving a tough competition though 😜.
 
 <br />
 
-<p dir="auto">
+<details>
+  <summary> Github Stats 📊 </summary>
   <a href="https://github.com/sereneinserenade">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sereneinserenade&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Jeet's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sereneinserenade&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Jeet's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;" />
   </a>
- 
-  <a href="https://github.com/sereneinserenade">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true">
-  </a>
-</p>
+</details>
 
-## Github Streaks
+<details>
+  <summary> Most used Languages 💬 </summary>
+  
+  <a href="https://github.com/sereneinserenade">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" />
+  </a>
+</details> 
+
+
+<details> 
+  <summary> Github Streaks 🔥 </summary>
 
 <a href="https://github.com/sereneinserenade">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sereneinserenade" alt="sereneinserenade" />    
 </a>
 
-## Badges
+</details> 
+
+
+<details> 
+  <summary> Badges 🪪 </summary>
 
 <a href="" title="Badge for Hacktoberfest 2021">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="hacktoberfest2021" width="100" height="100">
 </a>
   
+</details> 
+
 <!--
 
 ## Top Repos

@@ -35,11 +35,15 @@
 <details open>
   <summary> <h2> My Projects </h2> </summary>
 
-  <details>
-   <summary> <h3> Projects Related to <a href="https://tiptap.dev"> Tiptap </a> </summary>
+  <details open>
+    <summary> <h3> Projects Related to <a href="https://tiptap.dev">Tiptap</a>/<a href="https://prosemirror.net/">Prosemirror</a> </h3> </summary>
      
    <a href="https://github.com/sereneinserenade/tiptap-comment-extension">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" style="max-width: 100%;" />
+   </a>
+    
+   <a href="https://github.com/sereneinserenade/tiptap-comment-extension-react">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension-react&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension-react&amp;theme=buefy" style="max-width: 100%;" />
    </a>
 
    <a href="https://github.com/sereneinserenade/tiptap-languagetool">
@@ -50,26 +54,36 @@
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-search-n-replace-demo&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-search-n-replace-demo&amp;theme=buefy" style="max-width: 100%;" />
    </a>
     
+   <a href="https://github.com/sereneinserenade/vimirror">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=vimirror&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=vimirror&amp;theme=buefy" style="max-width: 100%;" />
+   </a>
+
    <a href="https://github.com/sereneinserenade/tiptap-extension-video">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-video&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-video&amp;theme=buefy" style="max-width: 100%;" />
    </a>
+
+   <a href="https://github.com/django-tiptap/django_tiptap">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=django-tiptap&amp;repo=django_tiptap&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=django-tiptap&amp;repo=django_tiptap&amp;theme=buefy" style="max-width: 100%;" />
+   </a>
   </details>
 
-   
-
-<a href="https://github.com/sereneinserenade/placenoter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" style="max-width: 100%;" />
-</a>
-
+   <details open>
+     <summary> <h3> Chrome Extension </h3> </summary>
+      <a href="https://github.com/sereneinserenade/placenoter">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" style="max-width: 100%;" />
+      </a>
+   </details>
 </details>
+
+
+---
 
 <details> 
   <summary> 🔥 &ensp;Github Streaks </summary>
 
-<a href="https://github.com/sereneinserenade">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sereneinserenade" alt="sereneinserenade" />    
-</a>
-
+  <a href="https://github.com/sereneinserenade">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sereneinserenade" alt="sereneinserenade" />    
+  </a>
 </details> 
 
 

@@ -23,6 +23,8 @@
 
 <details open>
   <summary> <h2> 📊 &ensp;Github Stats </h2> </summary>
+  
+  <p dir="auto">
   <a href="https://github.com/sereneinserenade">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sereneinserenade&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Jeet's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;" />
   </a>
@@ -30,53 +32,52 @@
    <a href="https://github.com/sereneinserenade">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" />
   </a>
+  </p>
+</details>
+
+## A glance of my projects
+
+<details open>
+<summary> <h3> Projects Related to <a href="https://tiptap.dev">Tiptap</a>/<a href="https://prosemirror.net/">Prosemirror</a> </h3> </summary>
+
+<a href="https://github.com/sereneinserenade/tiptap-comment-extension">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" style="max-width: 100%;" />
+</a>
+
+<a href="https://github.com/sereneinserenade/tiptap-comment-extension-react">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension-react&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension-react&amp;theme=buefy" style="max-width: 100%;" />
+</a>
+
+<a href="https://github.com/sereneinserenade/tiptap-languagetool">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-languagetool&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-languagetool&amp;theme=buefy" style="max-width: 100%;" />
+</a>
+
+<a href="https://github.com/sereneinserenade/tiptap-search-n-replace-demo">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-search-n-replace-demo&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-search-n-replace-demo&amp;theme=buefy" style="max-width: 100%;" />
+</a>
+
+<a href="https://github.com/sereneinserenade/tiptap-extension-search-n-replace">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-search-n-replace&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-search-n-replace&amp;theme=buefy" style="max-width: 100%;" />
+</a>
+
+<a href="https://github.com/sereneinserenade/vimirror">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=vimirror&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=vimirror&amp;theme=buefy" style="max-width: 100%;" />
+</a>
+
+<a href="https://github.com/sereneinserenade/tiptap-extension-video">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-video&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-video&amp;theme=buefy" style="max-width: 100%;" />
+</a>
+
+<a href="https://github.com/django-tiptap/django_tiptap">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=django-tiptap&amp;repo=django_tiptap&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=django-tiptap&amp;repo=django_tiptap&amp;theme=buefy" style="max-width: 100%;" />
+</a>
 </details>
 
 <details open>
-  <summary> <h2> My Projects </h2> </summary>
-
-  <details open>
-    <summary> <h3> Projects Related to <a href="https://tiptap.dev">Tiptap</a>/<a href="https://prosemirror.net/">Prosemirror</a> </h3> </summary>
-     
-   <a href="https://github.com/sereneinserenade/tiptap-comment-extension">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" style="max-width: 100%;" />
-   </a>
-    
-   <a href="https://github.com/sereneinserenade/tiptap-comment-extension-react">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension-react&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension-react&amp;theme=buefy" style="max-width: 100%;" />
-   </a>
-
-   <a href="https://github.com/sereneinserenade/tiptap-languagetool">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-languagetool&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-languagetool&amp;theme=buefy" style="max-width: 100%;" />
-   </a>
-    
-   <a href="https://github.com/sereneinserenade/tiptap-search-n-replace-demo">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-search-n-replace-demo&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-search-n-replace-demo&amp;theme=buefy" style="max-width: 100%;" />
-   </a>
-
-   <a href="https://github.com/sereneinserenade/tiptap-extension-search-n-replace">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-search-n-replace&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-search-n-replace&amp;theme=buefy" style="max-width: 100%;" />
-   </a>
-    
-   <a href="https://github.com/sereneinserenade/vimirror">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=vimirror&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=vimirror&amp;theme=buefy" style="max-width: 100%;" />
-   </a>
-
-   <a href="https://github.com/sereneinserenade/tiptap-extension-video">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-video&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-video&amp;theme=buefy" style="max-width: 100%;" />
-   </a>
-
-   <a href="https://github.com/django-tiptap/django_tiptap">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=django-tiptap&amp;repo=django_tiptap&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=django-tiptap&amp;repo=django_tiptap&amp;theme=buefy" style="max-width: 100%;" />
-   </a>
-  </details>
-
-   <details open>
-     <summary> <h3> Chrome Extension </h3> </summary>
-      <a href="https://github.com/sereneinserenade/placenoter">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" style="max-width: 100%;" />
-      </a>
-   </details>
+  <summary> <h3> Chrome Extension </h3> </summary>
+  <a href="https://github.com/sereneinserenade/placenoter">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" style="max-width: 100%;" />
+  </a>
 </details>
 
 

@@ -53,6 +53,10 @@
    <a href="https://github.com/sereneinserenade/tiptap-search-n-replace-demo">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-search-n-replace-demo&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-search-n-replace-demo&amp;theme=buefy" style="max-width: 100%;" />
    </a>
+
+   <a href="https://github.com/sereneinserenade/tiptap-extension-search-n-replace">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-search-n-replace&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-search-n-replace&amp;theme=buefy" style="max-width: 100%;" />
+   </a>
     
    <a href="https://github.com/sereneinserenade/vimirror">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=vimirror&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=vimirror&amp;theme=buefy" style="max-width: 100%;" />

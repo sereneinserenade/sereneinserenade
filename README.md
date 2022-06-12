@@ -38,7 +38,7 @@
 ## A glance of my projects
 
 <details open>
-<summary> <h3> Projects Related to <a href="https://tiptap.dev">Tiptap</a>/<a href="https://prosemirror.net/">Prosemirror</a> </h3> </summary>
+<summary> <b> Projects Related to <a href="https://tiptap.dev">Tiptap</a>/<a href="https://prosemirror.net/">Prosemirror</a> </b> </summary>
 
 <a href="https://github.com/sereneinserenade/tiptap-comment-extension">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" style="max-width: 100%;" />
@@ -72,6 +72,14 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=django-tiptap&amp;repo=django_tiptap&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=django-tiptap&amp;repo=django_tiptap&amp;theme=buefy" style="max-width: 100%;" />
 </a>
 </details>
+
+<details open>
+  <summary> <h3> Projects related to <a href="https://lexical.dev"> Lexical </a>  </h3> </summary>
+  <a href="https://github.com/sereneinserenade/lexical-comments">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=lexical-comments&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=lexical-comments&amp;theme=buefy" style="max-width: 100%;" />
+  </a>
+</details>
+
 
 <details open>
   <summary> <h3> Chrome Extension </h3> </summary>

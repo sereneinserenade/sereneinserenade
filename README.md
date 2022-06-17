@@ -67,6 +67,10 @@
 <a href="https://github.com/sereneinserenade/tiptap-extension-video">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-video&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-video&amp;theme=buefy" style="max-width: 100%;" />
 </a>
+  
+<a href="https://github.com/sereneinserenade/tiptap-snippets-extension">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-snippets-extension&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-snippets-extension&amp;theme=buefy" style="max-width: 100%;" />
+</a>
 
 <a href="https://github.com/django-tiptap/django_tiptap">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=django-tiptap&amp;repo=django_tiptap&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=django-tiptap&amp;repo=django_tiptap&amp;theme=buefy" style="max-width: 100%;" />

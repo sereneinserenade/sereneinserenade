@@ -16,7 +16,7 @@
 - ⌨️ &ensp;Currently working on [Lexical-Comments](https://github.com/sereneinserenade/lexical-comments), Google-Docs like commenting experience in Lexical.
 - 🌱 &ensp;I'm currently learning React and TypeScript, check out [PlaceNoter](https://github.com/sereneinserenade/placenoter) which is a note-taking chrome extension I made to practice.
 - 🤝 &ensp;I’m looking forward for contribue to React/Vue projects.
-- ✉️  &ensp;You can drop me an email at jeet.mandaliya7@gmail.com with subject containing "GitHub: ..."! It will be a pleasure to work with you!.
+- ✉️  &ensp;You can drop me an email at jeet.mandaliya7@gmail.com with subject containing "GitHub: ...", connect/text me on [LinkedIn](https://www.linkedin.com/in/sereneinserenade/) or [Twitter](https://twitter.com/sereneInSerenad)! Looking forward to collaborate with you!
 - ❤️ &ensp;I love VueJS, SCSS, \*nix OSes.
 - ⚡️ &ensp;Fun Fact: I love working with WYSIWYG/WYSIWYM editors and my favourite one is [TipTap](https://github.com/ueberdosis/tiptap). Recently, [Lexical](https://lexical.dev/) is giving a tough competition though 😜.
 

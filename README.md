@@ -3,13 +3,20 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/sereneinserenade/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>   
-<a href="mailto:jeet.mandaliya7@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+<a href="https://peerlist.io/sereneinserenad/" target="_blank">
+  <img alt="Peerlist" src="https://peerlist-readme-badge.herokuapp.com/api/sereneinserenad?style=for-the-badge">
+</a>
+
 <a href="https://twitter.com/sereneInSerenad" target="_blank">
   <img alt="Twitter " src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white">
 </a>
+
+<a href="mailto:jeet.mandaliya7@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
 <br />
 

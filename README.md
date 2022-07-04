@@ -16,13 +16,15 @@
 <a href="mailto:jeet.mandaliya7@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
+  
+  Discord - sereneinserenade#4869
 </p>
 <br />
 
 - ⌨️ &ensp;Currently working on [Lexical-Comments](https://github.com/sereneinserenade/lexical-comments), Google-Docs like commenting experience in Lexical.
 - 🌱 &ensp;I'm currently learning React and TypeScript, check out [PlaceNoter](https://github.com/sereneinserenade/placenoter) which is a note-taking chrome extension I made to practice.
-- 🤝 &ensp;I’m looking forward for contribue to React/Vue projects.
+- 🤝 &ensp;If you're looking for a **dev to work you on your project's Rich Text Editor** or as **a frontend developer, [DM me on Discord/Twitter/LinkedIn](https://github.com/sereneinserenade)👨‍💻🤩** or shoot me an email.
+
 - ✉️  &ensp;You can drop me an email at jeet.mandaliya7@gmail.com with subject containing "GitHub: ...", connect/text me on [LinkedIn](https://www.linkedin.com/in/sereneinserenade/) or [Twitter](https://twitter.com/sereneInSerenad)! Looking forward to collaborate with you!
 - ❤️ &ensp;I love VueJS, SCSS, \*nix OSes.
 - ⚡️ &ensp;Fun Fact: I love working with WYSIWYG/WYSIWYM editors and my favourite one is [TipTap](https://github.com/ueberdosis/tiptap). Recently, [Lexical](https://lexical.dev/) is giving a tough competition though 😜.

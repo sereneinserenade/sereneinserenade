@@ -73,6 +73,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=vimirror&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=vimirror&amp;theme=buefy" style="max-width: 100%;" />
 </a>
 
+<a href="https://github.com/sereneinserenade/tiptap-media-resize">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-media-resize&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-media-resize&amp;theme=buefy" style="max-width: 100%;" />
+</a>
+
 <a href="https://github.com/sereneinserenade/tiptap-extension-video">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-video&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-extension-video&amp;theme=buefy" style="max-width: 100%;" />
 </a>

@@ -21,7 +21,7 @@
 </p>
 <br />
 
-- ⌨️ &ensp;Currently working on [Lexical-Comments](https://github.com/sereneinserenade/lexical-comments), Google-Docs like commenting experience in Lexical.
+- ⌨️ &ensp;Currently working on [Notion](https://github.com/sereneinserenade/lexical-comments), Notion Like Plug and Play solution made in Tiptap.
 - 🌱 &ensp;I'm currently learning React and TypeScript, check out [PlaceNoter](https://github.com/sereneinserenade/placenoter) which is a note-taking chrome extension I made to practice.
 - 🤝 &ensp;If you're looking for a **dev to work you on your project's Rich Text Editor** or as **a frontend developer, [DM me on Discord/Twitter/LinkedIn](https://github.com/sereneinserenade)👨‍💻🤩** or shoot me an email.
 

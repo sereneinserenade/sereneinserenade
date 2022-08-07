@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/45892659/157429598-23d690e2-6600-4900-ace4-1d8e6291e456.png)
+![github-main-banner](https://user-images.githubusercontent.com/45892659/183311508-4f9a6130-9ca2-4f32-b14b-6ac5c6f14267.svg)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sereneinserenade/" target="_blank">

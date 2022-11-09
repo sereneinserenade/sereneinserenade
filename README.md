@@ -21,6 +21,9 @@
 </p>
 <br />
 
+<details>
+  <summary> <h3> A bit about what I do </h3> </summary>
+
 - ⌨️ &ensp;Currently working on [Notitap](https://github.com/sereneinserenade/notitap), Notion Like Plug and Play solution made in Tiptap.
 - 🌱 &ensp;I'm currently learning React and TypeScript, check out [PlaceNoter](https://github.com/sereneinserenade/placenoter) which is a note-taking chrome extension I made to practice.
 - 🤝 &ensp;If you're looking for a **dev to work you on your project's Rich Text Editor** or as **a frontend developer, [DM me on Discord/Twitter/LinkedIn](https://github.com/sereneinserenade)👨‍💻🤩** or shoot me an email.
@@ -29,16 +32,18 @@
 - ❤️ &ensp;I love VueJS, SCSS, \*nix OSes.
 - ⚡️ &ensp;Fun Fact: I love working with WYSIWYG/WYSIWYM editors and my favourite one is [TipTap](https://github.com/ueberdosis/tiptap). Recently, [Lexical](https://lexical.dev/) is giving a tough competition though 😜.
 
+</details>
 
-<details open>
-  <summary> <h2> 📊 &ensp;Github Stats </h2> </summary>
+
+  
+<details>
+  <summary> <h3> 📊 &ensp;More Github Stats </h3> </summary>
   
   <p dir="auto">
   <a href="https://github.com/sereneinserenade">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sereneinserenade&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Jeet's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;" />
   </a>
- 
-   <a href="https://github.com/sereneinserenade">
+  <a href="https://github.com/sereneinserenade">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" />
   </a>
   </p>
@@ -46,8 +51,8 @@
 
 ## A glance of my projects
 
-<details open>
-<summary> <b> Projects Related to <a href="https://tiptap.dev">Tiptap</a>/<a href="https://prosemirror.net/">Prosemirror</a> </b> </summary>
+<details >
+<summary> <h3>  Projects Related to <a href="https://tiptap.dev">Tiptap</a>/<a href="https://prosemirror.net/">Prosemirror</a> </h3>  </summary>
 
 <a href="https://github.com/sereneinserenade/tiptap-comment-extension">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=tiptap-comment-extension&amp;theme=buefy" style="max-width: 100%;" />
@@ -90,7 +95,7 @@
 </a>
 </details>
 
-<details open>
+<details >
   <summary> <h3> Projects related to <a href="https://lexical.dev"> Lexical </a>  </h3> </summary>
   <a href="https://github.com/sereneinserenade/lexical-comments">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=lexical-comments&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=lexical-comments&amp;theme=buefy" style="max-width: 100%;" />
@@ -98,7 +103,7 @@
 </details>
 
 
-<details open>
+<details >
   <summary> <h3> Chrome Extension </h3> </summary>
   <a href="https://github.com/sereneinserenade/placenoter">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=sereneinserenade&amp;repo=placenoter&amp;theme=buefy" style="max-width: 100%;" />

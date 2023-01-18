@@ -21,9 +21,6 @@
 </p>
 <br />
 
-<details>
-  <summary> <h3> A bit about what I do </h3> </summary>
-
 - ⌨️ &ensp;Currently working on [Notitap](https://github.com/sereneinserenade/notitap), Notion Like Plug and Play solution made in Tiptap.
 - 🌱 &ensp;I'm currently learning React and TypeScript, check out [PlaceNoter](https://github.com/sereneinserenade/placenoter) which is a note-taking chrome extension I made to practice.
 - 🤝 &ensp;If you're looking for a **dev to work you on your project's Rich Text Editor** or as **a frontend developer, [DM me on Discord/Twitter/LinkedIn](https://github.com/sereneinserenade)👨‍💻🤩** or shoot me an email.
@@ -31,9 +28,6 @@
 - ✉️  &ensp;You can drop me an email at [`jeet dot mandaliya7 at gmail dot com`](mailto:jeet.mandaliya7@gmail.com) with subject containing "GitHub: ...", connect/text me on [LinkedIn](https://www.linkedin.com/in/sereneinserenade/) or [Twitter](https://twitter.com/sereneInSerenad)! Looking forward to collaborate with you!
 - ❤️ &ensp;I love VueJS, SCSS, \*nix OSes.
 - ⚡️ &ensp;Fun Fact: I love working with WYSIWYG/WYSIWYM editors and my favourite one is [TipTap](https://github.com/ueberdosis/tiptap). Recently, [Lexical](https://lexical.dev/) is giving a tough competition though 😜.
-
-</details>
-
 
   
 <details>

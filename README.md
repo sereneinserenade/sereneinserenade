@@ -30,7 +30,7 @@
 - ⚡️ &ensp;Fun Fact: I love working with WYSIWYG/WYSIWYM editors and my favourite one is [TipTap](https://github.com/ueberdosis/tiptap). Recently, [Lexical](https://lexical.dev/) is giving a tough competition though 😜.
 
   
-<details>
+<details open="true">
   <summary> <h3> 📊 &ensp;More Github Stats </h3> </summary>
   
   <p dir="auto">

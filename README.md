@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://peerlist.io/sereneinserenad/" target="_blank">
-  <img alt="Peerlist" src="https://peerlist-readme-badge.herokuapp.com/api/sereneinserenad?style=for-the-badge">
+  <img alt="Peerlist" src="https://github-readme-badge.peerlist.io/api/sereneinserenad?style=for-the-badge">
 </a>
 
 <a href="https://twitter.com/sereneInSerenad" target="_blank">

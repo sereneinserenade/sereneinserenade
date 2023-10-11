@@ -1,4 +1,4 @@
-![github-main-banner](https://user-images.githubusercontent.com/45892659/183311508-4f9a6130-9ca2-4f32-b14b-6ac5c6f14267.svg)
+![profile-header](https://github.com/sereneinserenade/sereneinserenade/assets/45892659/c584b108-c1a5-40c0-b9a2-22ca2b8452de)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sereneinserenade/" target="_blank">
@@ -16,8 +16,7 @@
 <a href="mailto:jeet.mandaliya7@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-  
-  Discord - sereneinserenade#4869
+
 </p>
 <br />
 

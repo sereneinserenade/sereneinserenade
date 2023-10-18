@@ -1,34 +1,19 @@
-![profile-header](https://github.com/sereneinserenade/sereneinserenade/assets/45892659/c584b108-c1a5-40c0-b9a2-22ca2b8452de)
+![profile-header](https://github.com/sereneinserenade/sereneinserenade/assets/45892659/c501a99b-40df-4b76-96d8-5c55e5b19677)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sereneinserenade/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+[![linked in badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sereneinserenade/)
+[![peerlist](https://github-readme-badge.peerlist.io/api/sereneinserenad?style=for-the-badge)](https://peerlist.io/sereneinserenad/)
+[![twitter](https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge\&labelColor=1ca0f1\&logo=twitter\&logoColor=white)](https://twitter.com/sereneInSerenad/)
+[![gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jeet.mandaliya7@gmail.com)
+[![discord](https://dcbadge.vercel.app/api/shield/614823279424831536?compact=true)](https://discord.com/users/614823279424831536)
 
-<a href="https://peerlist.io/sereneinserenad/" target="_blank">
-  <img alt="Peerlist" src="https://github-readme-badge.peerlist.io/api/sereneinserenad?style=for-the-badge">
-</a>
+Hey there, legends! 👋 I'm Jeet, a Frontend Developer aiming to be a Full Stack Develper, currently @ [fynk.com](https://fynk.com/), making our Smart Contract Editor awesome with Tiptap + Vue. 
 
-<a href="https://twitter.com/sereneInSerenad" target="_blank">
-  <img alt="Twitter " src="https://img.shields.io/badge/Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white">
-</a>
+✦ My passion for open-source fuels my side projects like [Notitap](https://github.com/sereneinserenade/notitap) and [PlaceNoter](https://github.com/sereneinserenade/placenoter), along with contributing to impactful projects like [tiptap](https://github.com/ueberdosis/tiptap/commits?author=sereneinserenade). Engaging in thoughtful discussions with communities[^community-note] keeps my gears turning. Currently geeking out over [Rust](https://www.rust-lang.org) & [Tauri](https://tauri.app) — seriously 🤯 stuff!
 
-<a href="mailto:jeet.mandaliya7@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+✦ My favourite pieces of technology are WYSIWYG/WYSIWYM Rich Text Editor toolkits like [TipTap](https://tiptap.dev/) + [ProseMirror](https://prosemirror.net/) and the novel competitor, [Lexical](https://lexical.dev/). Solving the puzzles of user-centric editors, like our Smart Contract gem, has been my jam for over 3 years. Curious? [Check out my creations!](https://github.com/sereneinserenade?tab=repositories\&q=tiptap)
 
-</p>
-<br />
+✦ Got an awesome project in mind or just want to talk? Find me on [Discord](https://discord.com/users/614823279424831536), [Twitter](https://twitter.com/sereneInSerenad), or [LinkedIn](https://www.linkedin.com/in/sereneinserenade/), or simply drop an email at [jeet • mandaliya7 {'at'} gmail • com](mailto:jeet.mandaliya7@gmail.com). Let's turn ideas into code magic! ✨💻
 
-- ⌨️ &ensp;Currently working on [Notitap](https://github.com/sereneinserenade/notitap), Notion Like Plug and Play solution made in Tiptap.
-- 🌱 &ensp;I'm currently learning React and TypeScript, check out [PlaceNoter](https://github.com/sereneinserenade/placenoter) which is a note-taking chrome extension I made to practice.
-- 🤝 &ensp;If you're looking for a **dev to work you on your project's Rich Text Editor** or as **a frontend developer, [DM me on Discord/Twitter/LinkedIn](https://github.com/sereneinserenade)👨‍💻🤩** or shoot me an email.
-
-- ✉️  &ensp;You can drop me an email at [`jeet dot mandaliya7 at gmail dot com`](mailto:jeet.mandaliya7@gmail.com) with subject containing "GitHub: ...", connect/text me on [LinkedIn](https://www.linkedin.com/in/sereneinserenade/) or [Twitter](https://twitter.com/sereneInSerenad)! Looking forward to collaborate with you!
-- ❤️ &ensp;I love VueJS, SCSS, \*nix OSes.
-- ⚡️ &ensp;Fun Fact: I love working with WYSIWYG/WYSIWYM editors and my favourite one is [TipTap](https://github.com/ueberdosis/tiptap). Recently, [Lexical](https://lexical.dev/) is giving a tough competition though 😜.
-
-  
 <details open="true">
   <summary> <h3> 📊 &ensp;More Github Stats </h3> </summary>
   
@@ -36,6 +21,7 @@
   <a href="https://github.com/sereneinserenade">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sereneinserenade&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Jeet's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;" />
   </a>
+ 
   <a href="https://github.com/sereneinserenade">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" />
   </a>
@@ -122,7 +108,10 @@
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cm4PWdMq--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/131/hacktoberfest-2021-badge.png" alt="hacktoberfest2021" width="100" height="100">
 </a>
   
-</details> 
+</details>
+
+[^community-note]: hello 👋 if you found my profile from communities, let's connect here and/or on [linkedin](https://www.linkedin.com/in/sereneinserenade/). Reach out to me on linked in and/or discord: sereneinserenade. Prefer Email ? [jeet • mandaliya7 {'at'} gmail • com](mailto:jeet.mandaliya7@gmail.com).
+
 <!--
 **sereneinserenade/sereneinserenade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

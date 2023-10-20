@@ -1,4 +1,4 @@
-![profile-header](https://github.com/sereneinserenade/sereneinserenade/assets/45892659/c501a99b-40df-4b76-96d8-5c55e5b19677)
+![profile-header](https://github.com/sereneinserenade/sereneinserenade/assets/45892659/a6997a58-ac9a-4292-8008-1ede76e46bf3)
 
 [![linked in badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sereneinserenade/)
 [![peerlist](https://github-readme-badge.peerlist.io/api/sereneinserenad?style=for-the-badge)](https://peerlist.io/sereneinserenad/)

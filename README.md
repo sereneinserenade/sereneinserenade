@@ -6,7 +6,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jeet.mandaliya7@gmail.com)
 [![discord](https://dcbadge.vercel.app/api/shield/614823279424831536?compact=true)](https://discord.com/users/614823279424831536)
 
-Hey there, legends! 👋 I'm Jeet, a Frontend Developer aiming to be a Full Stack Develper, currently @ [fynk.com](https://fynk.com/), making our Smart Contract Editor awesome with Tiptap + Vue. 
+Hey there, legends! 👋 I'm Jeet, a Frontend Developer aiming to be a Full Stack Develper, currently [@beehiiv](https://www.beehiiv.com/) as Editor Engineer, making our Post Editor awesome with Tiptap, React & Ruby on Rails. 
 
 ✦ My passion for open-source fuels my side projects like [Notitap](https://github.com/sereneinserenade/notitap) and [PlaceNoter](https://github.com/sereneinserenade/placenoter), along with contributing to impactful projects like [tiptap](https://github.com/ueberdosis/tiptap/commits?author=sereneinserenade). Engaging in thoughtful discussions with communities[^community-note] keeps my gears turning. Currently geeking out over [Rust](https://www.rust-lang.org) & [Tauri](https://tauri.app) — seriously 🤯 stuff!
 

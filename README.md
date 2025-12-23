@@ -17,15 +17,9 @@ Hey there, legends! 👋 I'm Jeet, a Frontend Developer aiming to be a Full Stac
 <details open="true">
   <summary> <h3> 📊 &ensp;More Github Stats </h3> </summary>
   
-  <p dir="auto">
-  <a href="https://github.com/sereneinserenade">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sereneinserenade&amp;show_icons=true&amp;include_all_commits=true&amp;theme=buefy&amp;hide_border=true" alt="Jeet's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" style="max-width: 100%;" />
-  </a>
- 
-  <a href="https://github.com/sereneinserenade">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&amp;layout=compact&amp;theme=buefy&amp;hide_border=true" />
-  </a>
-  </p>
+| <a href="https://github.com/sereneinserenade"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sereneinserenade&show_icons=true&theme=buefy&hide_border=true" alt="Jeet's github stats" /></a> | <a href="https://github.com/sereneinserenade"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereneinserenade&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 </details>
 
 ## A glance of my projects

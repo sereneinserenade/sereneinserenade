@@ -22,28 +22,50 @@
 
 ## What I build
 
-- Open-source tools around [Tiptap](https://tiptap.dev/), [ProseMirror](https://prosemirror.net/), and [Lexical](https://lexical.dev/)
+- Open-source tools around [Tiptap](https://tiptap.dev/), [ProseMirror](https://prosemirror.net/), and (a little bit) [Lexical](https://lexical.dev/)
 - Editor-focused side projects like [Notitap](https://github.com/sereneinserenade/notitap) and [PlaceNoter](https://github.com/sereneinserenade/placenoter)
-- Contributions to the [tiptap ecosystem](https://github.com/ueberdosis/tiptap/commits?author=sereneinserenade)
+- Contributions to the [tiptap repo](https://github.com/ueberdosis/tiptap/commits?author=sereneinserenade) and [ecosystem](#tiptap-prosemirror)
 
 ## Featured projects
 
 ### Tiptap / ProseMirror
 
-- [tiptap-comment-extension](https://github.com/sereneinserenade/tiptap-comment-extension)
-- [tiptap-comment-extension-react](https://github.com/sereneinserenade/tiptap-comment-extension-react)
-- [tiptap-languagetool](https://github.com/sereneinserenade/tiptap-languagetool)
-- [tiptap-extension-search-n-replace](https://github.com/sereneinserenade/tiptap-extension-search-n-replace)
-- [tiptap-media-resize](https://github.com/sereneinserenade/tiptap-media-resize)
-- [tiptap-extension-video](https://github.com/sereneinserenade/tiptap-extension-video)
+Open-source work on Tiptap/ProseMirror.
+
+
+| Project                                                                                              | What it does                                                         | Category          | Stack            | Stars | Status |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------- | ---------------- | ----- | ------ |
+| [tiptap-comment-extension](https://github.com/sereneinserenade/tiptap-comment-extension)             | Google Docs–style commenting (threads, marks, UI patterns)           | Extension         | TypeScript       | 502   | Active |
+| [notitap](https://github.com/sereneinserenade/notitap)                                               | Notion-like block editor built on Tiptap                             | Application       | TypeScript       | 418   | Active |
+| [tiptap-search-and-replace](https://github.com/sereneinserenade/tiptap-search-and-replace)           | Document search and replace for Tiptap v2                            | Extension         | TypeScript       | 232   | Active |
+| [tiptap-languagetool](https://github.com/sereneinserenade/tiptap-languagetool)                       | [LanguageTool](https://languagetool.org/) grammar and style checking | Extension         | TypeScript       | 160   | Active |
+| [tiptap-media-resize](https://github.com/sereneinserenade/tiptap-media-resize)                       | Resize and realign images and other media                            | Extension         | TypeScript + Vue | 146   | Active |
+| [tiptap-snippets-extension](https://github.com/sereneinserenade/tiptap-snippets-extension)           | Drag-and-drop snippet blocks (with demo video)                       | Extension + demo  | TypeScript + Vue | 111   | Active |
+| [tiptap-inline-suggestion](https://github.com/sereneinserenade/tiptap-inline-suggestion)             | Ghost-text style inline completions                                  | Extension         | TypeScript       | 82    | Active |
+| [tiptap-extension-video](https://github.com/sereneinserenade/tiptap-extension-video)                 | Embed and edit video nodes                                           | Extension         | TypeScript       | 78    | Active |
+| [tiptap-comment-extension-react](https://github.com/sereneinserenade/tiptap-comment-extension-react) | React UI layer for the comment extension                             | Extension (React) | TypeScript       | 76    | Active |
+| [vimirror](https://github.com/sereneinserenade/vimirror)                                             | Vim-style keybindings for ProseMirror / Tiptap                       | Utility           | TypeScript       | 74    | Active |
+
 
 ### Lexical
 
-- [lexical-comments](https://github.com/sereneinserenade/lexical-comments)
+Open-source on [Lexical](https://lexical.dev/).
+
+
+| Project                                                                  | What it does                                             | Category            | Stack      | Stars | Status |
+| ------------------------------------------------------------------------ | -------------------------------------------------------- | ------------------- | ---------- | ----- | ------ |
+| [lexical-comments](https://github.com/sereneinserenade/lexical-comments) | Google Docs–style commenting patterns built with Lexical | Extension + example | TypeScript | 82    | Active |
+
 
 ### Chrome extension
 
-- [placenoter](https://github.com/sereneinserenade/placenoter)
+Browser extensions and Chrome-targeted side projects.
+
+
+| Project                                                      | What it does                                                                 | Category  | Stack              | Stars | Status |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------- | --------- | ------------------ | ----- | ------ |
+| [placenoter](https://github.com/sereneinserenade/placenoter) | Replaces the default new tab with a note-taking workspace (rich text, clips) | Extension | TypeScript + React | 55    | Active |
+
 
 ## GitHub snapshot
 

@@ -1,18 +1,18 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/sereneinserenade/sereneinserenade/assets/45892659/a6997a58-ac9a-4292-8008-1ede76e46bf3" alt="profile-header" />
 </p>
 
-<h1 align="center">Hey, I'm Jeet 👋</h1>
+<h1 align="left">Hey, I'm Jeet 👋</h1>
 
-<p align="center">
+<p align="left">
   Frontend engineer building rich-text editor experiences.
 </p>
 
-<p align="center">
+<p align="left">
   Editor Engineer at <a href="https://www.beehiiv.com/">beehiiv</a> — shipping with <b>Tiptap</b>, <b>React</b>, and <b>Ruby on Rails</b>.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sereneinserenade/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://peerlist.io/sereneinserenad"><img src="https://img.shields.io/badge/Peerlist-00AA45?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" /></a>
   <a href="https://twitter.com/sereneInSerenad"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>

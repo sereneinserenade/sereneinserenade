@@ -34,7 +34,7 @@ Open-source work on Tiptap/ProseMirror.
 
 
 | Project                                                                                              | What it does                                                         | Category          | Stack            | Stars | Status |
-| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ----------------- | ---------------- | ----- | ------ |
+| :---                                                                                                 | :---                                                                 | :---:             | :---:            | :---: | :---: |
 | [tiptap-comment-extension](https://github.com/sereneinserenade/tiptap-comment-extension)             | Google Docs–style commenting (threads, marks, UI patterns)           | Extension         | TypeScript       | 502   | Active |
 | [notitap](https://github.com/sereneinserenade/notitap)                                               | Notion-like block editor built on Tiptap                             | Application       | TypeScript       | 418   | Active |
 | [tiptap-search-and-replace](https://github.com/sereneinserenade/tiptap-search-and-replace)           | Document search and replace for Tiptap v2                            | Extension         | TypeScript       | 232   | Active |
@@ -52,9 +52,9 @@ Open-source work on Tiptap/ProseMirror.
 Open-source on [Lexical](https://lexical.dev/).
 
 
-| Project                                                                  | What it does                                             | Category            | Stack      | Stars | Status |
-| ------------------------------------------------------------------------ | -------------------------------------------------------- | ------------------- | ---------- | ----- | ------ |
-| [lexical-comments](https://github.com/sereneinserenade/lexical-comments) | Google Docs–style commenting patterns built with Lexical | Extension + example | TypeScript | 82    | Active |
+| Project                                                                                              | What it does                                                         | Category          | Stack            | Stars | Status |
+| :---                                                                                                 | :---                                                                 | :---:             | :---:            | :---: | :---: |
+| [lexical-comments](https://github.com/sereneinserenade/lexical-comments)                             | Google Docs–style commenting patterns built with Lexical             | Extension + example | TypeScript       | 82    | Active |
 
 
 ### Chrome extension
@@ -62,9 +62,9 @@ Open-source on [Lexical](https://lexical.dev/).
 Browser extensions and Chrome-targeted side projects.
 
 
-| Project                                                      | What it does                                                                 | Category  | Stack              | Stars | Status |
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------- | --------- | ------------------ | ----- | ------ |
-| [placenoter](https://github.com/sereneinserenade/placenoter) | Replaces the default new tab with a note-taking workspace (rich text, clips) | Extension | TypeScript + React | 55    | Active |
+| Project                                                                                              | What it does                                                         | Category          | Stack            | Stars | Status |
+| :---                                                                                                 | :---                                                                 | :---:             | :---:            | :---: | :---: |
+| [placenoter](https://github.com/sereneinserenade/placenoter)                                         | Replaces the default new tab with a note-taking workspace (rich text, clips) | Extension         | TypeScript + React | 55    | Active |
 
 
 ## GitHub snapshot

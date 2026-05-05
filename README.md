@@ -35,16 +35,16 @@ Open-source work on Tiptap/ProseMirror.
 
 | Project                                                                                              | What it does                                                         | Category          | Stack            | Stars | Status |
 | :---                                                                                                 | :---                                                                 | :---:             | :---:            | :---: | :---: |
-| [tiptap-comment-extension](https://github.com/sereneinserenade/tiptap-comment-extension)             | Google Docs–style commenting (threads, marks, UI patterns)           | Extension         | TypeScript       | 502   | Active |
+| [tiptap-comment-extension](https://github.com/sereneinserenade/tiptap-comment-extension)             | Google Docs–style commenting (threads, marks, UI patterns)           | Extension         | TypeScript       | 505   | Active |
 | [notitap](https://github.com/sereneinserenade/notitap)                                               | Notion-like block editor built on Tiptap                             | Application       | TypeScript       | 418   | Active |
-| [tiptap-search-and-replace](https://github.com/sereneinserenade/tiptap-search-and-replace)           | Document search and replace for Tiptap v2                            | Extension         | TypeScript       | 232   | Active |
+| [tiptap-search-and-replace](https://github.com/sereneinserenade/tiptap-search-and-replace)           | Document search and replace for Tiptap v2                            | Extension         | TypeScript       | 239   | Active |
 | [tiptap-languagetool](https://github.com/sereneinserenade/tiptap-languagetool)                       | [LanguageTool](https://languagetool.org/) grammar and style checking | Extension         | TypeScript       | 160   | Active |
 | [tiptap-media-resize](https://github.com/sereneinserenade/tiptap-media-resize)                       | Resize and realign images and other media                            | Extension         | TypeScript + Vue | 146   | Active |
-| [tiptap-snippets-extension](https://github.com/sereneinserenade/tiptap-snippets-extension)           | Drag-and-drop snippet blocks (with demo video)                       | Extension + demo  | TypeScript + Vue | 111   | Active |
+| [tiptap-snippets-extension](https://github.com/sereneinserenade/tiptap-snippets-extension)           | Drag-and-drop snippet blocks (with demo video)                       | Extension + demo  | TypeScript + Vue | 110   | Active |
 | [tiptap-inline-suggestion](https://github.com/sereneinserenade/tiptap-inline-suggestion)             | Ghost-text style inline completions                                  | Extension         | TypeScript       | 82    | Active |
-| [tiptap-extension-video](https://github.com/sereneinserenade/tiptap-extension-video)                 | Embed and edit video nodes                                           | Extension         | TypeScript       | 78    | Active |
+| [tiptap-extension-video](https://github.com/sereneinserenade/tiptap-extension-video)                 | Embed and edit video nodes                                           | Extension         | TypeScript       | 79    | Active |
 | [tiptap-comment-extension-react](https://github.com/sereneinserenade/tiptap-comment-extension-react) | React UI layer for the comment extension                             | Extension (React) | TypeScript       | 76    | Active |
-| [vimirror](https://github.com/sereneinserenade/vimirror)                                             | Vim-style keybindings for ProseMirror / Tiptap                       | Utility           | TypeScript       | 74    | Active |
+| [vimirror](https://github.com/sereneinserenade/vimirror)                                             | Vim-style keybindings for ProseMirror / Tiptap                       | Utility           | TypeScript       | 75    | Active |
 
 
 ### Lexical
@@ -54,7 +54,7 @@ Open-source on [Lexical](https://lexical.dev/).
 
 | Project                                                                                              | What it does                                                         | Category          | Stack            | Stars | Status |
 | :---                                                                                                 | :---                                                                 | :---:             | :---:            | :---: | :---: |
-| [lexical-comments](https://github.com/sereneinserenade/lexical-comments)                             | Google Docs–style commenting patterns built with Lexical             | Extension + example | TypeScript       | 82    | Active |
+| [lexical-comments](https://github.com/sereneinserenade/lexical-comments)                             | Google Docs–style commenting patterns built with Lexical             | Extension + example | TypeScript       | 83    | Active |
 
 
 ### Chrome extension
